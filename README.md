@@ -1,4 +1,4 @@
-# venture_funding
+# Venture Funding
 This application uses several binary classifier models to predict whether a perspective business applicant will become a successful business.  It does this by first preprocessing the data for the model.  Then it uses the model-fit-predict pattern to compile and evaluate the binary classification model.  The model is then optimized several times to determine how much loss and accuracy the model had made in its prediction compared to the actual results from the data.
 
 ---
